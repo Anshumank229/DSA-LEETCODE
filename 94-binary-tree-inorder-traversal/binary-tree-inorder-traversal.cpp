@@ -15,7 +15,7 @@ public:
 
     void fun(TreeNode* node) {
         
-        if (node == nullptr) {
+        if (node == NULL) {
             return;
         }
 
